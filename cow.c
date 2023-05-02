@@ -20,3 +20,6 @@ fi
 }
 r=`pal $n`
 echo "$r"
+
+
+hello kartik
